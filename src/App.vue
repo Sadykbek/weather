@@ -98,7 +98,7 @@ provide('whichImg', whichImg)
 
 <style>
 .bgday {
-  background: url('./src/assets/bgday.jpg');
+  background: url('../public/bgday.jpg');
   background-repeat: no-repeat;
   background-size: cover;
   width: 100vw;
@@ -106,7 +106,7 @@ provide('whichImg', whichImg)
 }
 
 .bgnight {
-  background: url('./src/assets/bgnight.png');
+  background: url('../public/bgnight.png');
   background-repeat: no-repeat;
   background-size: cover;
   width: 100%;
